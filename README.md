@@ -1,0 +1,2 @@
+# ArqSoft-EjercicioPolizas
+Ejercicio resuelto
